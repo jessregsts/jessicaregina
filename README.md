@@ -29,10 +29,11 @@
 <br><a href="https://github.com/jessregsts/INE5413-Grafos">Many many Graphs</a><br>
 <br><a href="https://github.com/jessregsts/INE5405-Probabilidade-e-Estatistica">IDEB Statistics</a><br>
 <br><a href="https://github.com/jessregsts/INE5427-Planejamento-e-Gestao-de-Projetos">Produte Project Management</a><br>
-<br>
-<br>
-You can find other projects I created by myself or with my colleagues by checking my repositories, they're all public. Have fun! 🎮
 
+<br>
+You can find other projects I created by myself or with my colleagues by checking my repositories, they're all public. 
+<br>Have fun! 🎮
+<br>
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessregsts&layout=compact&theme=tokyonight" alt="Top Langs" />
