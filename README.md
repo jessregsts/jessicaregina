@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7738e306-1377-404d-8be2-be2a13b9488e)# About Me
+# About Me
 
 ## 💻 Jessica Regina dos Santos
 <br>🌸 I'm a Computer Science undergraduate at the Department of Computer Science and Statistics - Federal University of Santa Catarina.<br>
@@ -11,7 +11,7 @@
 <br>
 <div align="center"> 
 <img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="100"/>
-<img src="https://i.pinimg.com/originals/bb/34/01/bb34017e0cd6eeaff3e785b60a8ff59f.gif" width="300"/> </div>
+<br><img src="https://i.pinimg.com/originals/bb/34/01/bb34017e0cd6eeaff3e785b60a8ff59f.gif" width="300"/> </div>
 <div align="center">
 <br>Some of my favorite projects I did are:<br>
 <br><b>💌 Software Oriented 💌</b><br>
