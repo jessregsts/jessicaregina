@@ -1,7 +1,7 @@
 # About Me
 
 ## 💻 Jessica Regina dos Santos
-
+<div align="center"> <img src="https://66.media.tumblr.com/9356a5343569692547be79f4fe460829/tumblr_mit6meq11R1rfjowdo1_500.gif" width="300"/> </div>
 <br>🌸 I'm a Computer Science undergraduate at the Department of Computer Science and Statistics - Federal University of Santa Catarina.<br>
 <br>🌸 Also a big nerd and Maths lover 📖<br>
 <br>🌸 Nature, movies and cats 🐱 are my favorite thing about this world. Also sour candies! 💜<br>
