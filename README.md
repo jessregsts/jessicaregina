@@ -2,7 +2,7 @@
 
 ## 💻 Jessica Regina dos Santos
 
-<br>🌸 I'm a Computer Science undergraduate at the Department of Computer Science and S tatistics - UFSC.<br>
+<br>🌸 I'm a Computer Science undergraduate at the Department of Computer Science and Statistics - Federal University of Santa Catarina.<br>
 <br>🌸 Also a big nerd and Maths lover 📖<br>
 <br>🌸 Nature, movies and cats 🐱 are my favorite thing about this world. Also sour candies! 💜<br>
 <br>🌸 I live in Florianopolis/SC and my life is all about technology and cold tea ☕<br>
