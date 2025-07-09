@@ -35,7 +35,7 @@
 You can find other projects I created by myself or with my colleagues by checking my repositories, they're all public. 
 <br>Have fun! 🎮
 
-<div align="center"> <img src="https://66.media.tumblr.com/9356a5343569692547be79f4fe460829/tumblr_mit6meq11R1rfjowdo1_500.gif" width="300"/>
+<br><div align="center"> <img src="https://66.media.tumblr.com/9356a5343569692547be79f4fe460829/tumblr_mit6meq11R1rfjowdo1_500.gif" width="300"/>
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessregsts&layout=compact&theme=tokyonight" alt="Top Langs" />
 <br>
  </div>
