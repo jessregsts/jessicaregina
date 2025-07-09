@@ -31,19 +31,13 @@
 <br><a href="https://github.com/jessregsts/INE5427-Planejamento-e-Gestao-de-Projetos">Produte Project Management</a><br>
 <br>
 <br>
-## 📊 My GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jessregsts&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
 
-## 🧠 My Top Programming Languages
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessregsts&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>
 
