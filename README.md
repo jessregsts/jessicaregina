@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/7738e306-1377-404d-8be2-be2a13b9488e)# About Me
 
 ## 💻 Jessica Regina dos Santos
-<div align="center"> <img src="https://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif" width="200"/> </div>
 <br>🌸 I'm a Computer Science undergraduate at the Department of Computer Science and Statistics - Federal University of Santa Catarina.<br>
 <br>🌸 Also a big nerd and Maths lover 📖<br>
 <br>🌸 Nature, movies and cats 🐱 are my favorite thing about this world. Also sour candies! 💜<br>
@@ -10,8 +9,9 @@
 <br><div align="center"> <a href="https://www.instagram.com/jessicaregds/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jessica-regina-dos-santos-aa7667142/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </div>
 <br>
 <br>
+<div align="center"> 
 <img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="100"/>
-<div align="center"> <img src="https://i.pinimg.com/originals/bb/34/01/bb34017e0cd6eeaff3e785b60a8ff59f.gif" width="300"/> </div>
+<img src="https://i.pinimg.com/originals/bb/34/01/bb34017e0cd6eeaff3e785b60a8ff59f.gif" width="300"/> </div>
 <div align="center">
 <br>Some of my favorite projects I did are:<br>
 <br><b>💌 Software Oriented 💌</b><br>
