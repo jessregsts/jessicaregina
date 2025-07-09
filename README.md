@@ -15,14 +15,14 @@
 <br>Some of my favorite projects I did are:<br>
 <br>💌 Software Oriented 💌<br>
 <br><a href="https://github.com/jessregsts/INE5417-Engenharia-de-Software-I">Kings in the Corner</a><br>
-<br><a href="https://github.com/jessregsts/INE5402-Programacao-Orientada-a-Objetos-I/tree/main/TrabalhoFinal">Movie ranting system</a><br>
-<br><a href="https://github.com/jessregsts/INE5416-Paradigmas-de-Programacao">Solving a Sudoku in 4 different programming languages</a><br>
+<br><a href="https://github.com/jessregsts/INE5402-Programacao-Orientada-a-Objetos-I/tree/main/TrabalhoFinal">Movie Ranting System</a><br>
+<br><a href="https://github.com/jessregsts/INE5416-Paradigmas-de-Programacao">Solving a Sudoku in 4 different Programming Languages</a><br>
 <br><a href="https://github.com/jessregsts/INE5408-Estruturas-de-Dados/tree/main/ProjetoI">Vaccum Cleaning Robot</a><br>
 <br><a href="https://github.com/jessregsts/Trabalho_Final_Seguranca">Shamir's Secret Sharing</a><br>
 <br><a href="https://github.com/jessregsts/INE5404-Programacao-Orientada-a-Objetos-II/tree/main/PokerGame">Poker Game</a><br>
 <br>💌 Hardware Oriented 💌<br>
 <br><a href="https://github.com/jessregsts/EEL5105-Circuitos-e-Tecnicas-Digitais/tree/main/Genius">Genius Game</a><br>
-<br><a href="https://github.com/jessregsts/INE5411-Organizacao-de-Computadores-I/tree/main/TrabFinal">Pumping station machine</a><br>
+<br><a href="https://github.com/jessregsts/INE5411-Organizacao-de-Computadores-I/tree/main/TrabFinal">Pumping Station Machine</a><br>
 <br><a href="https://github.com/jessregsts/EEL5105-Circuitos-e-Tecnicas-Digitais/tree/main/Genius">Waves Filter</a><br>
 <br>💌 Math/Algorithms Oriented 💌<br>
 <br><a href="https://github.com/jessregsts/INE5202-Calculo-Numerico-em-Computadores/tree/main/Trabalho03">Epidemic Curves</a><br>
