@@ -31,9 +31,6 @@
 <br><a href="https://github.com/jessregsts/INE5427-Planejamento-e-Gestao-de-Projetos">Produte Project Management</a><br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=jessregsts&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-</div>
 
 <div align="center">
 
