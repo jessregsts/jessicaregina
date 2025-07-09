@@ -1,6 +1,7 @@
 # About Me
 
 ## 💻 Jessica Regina dos Santos
+<div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F4095-studio-ghibli-gifs%3Fpage%3D66&psig=AOvVaw2Q6k7COjHJ6CW_fun-TBaC&ust=1752187115708000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCOCg3p3ssI4DFQAAAAAdAAAAABCTAQ" width="100"/> </div>
 <br>🌸 I'm a Computer Science undergraduate at the Department of Computer Science and Statistics - Federal University of Santa Catarina.<br>
 <br>🌸 Also a big nerd and Maths lover 📖<br>
 <br>🌸 Nature, movies and cats 🐱 are my favorite thing about this world. Also sour candies! 💜<br>
