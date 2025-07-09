@@ -14,6 +14,7 @@
 <div align="center">
 <br>Some of my favorite projects I did are:<br>
 <br>💌 Software Oriented 💌<br>
-<br>[Kings in the Corner](https://github.com/jessregsts/INE5417-Engenharia-de-Software-I)<br>
+<br><a href="https://github.com/jessregsts/INE5417-Engenharia-de-Software-I">Kings in the Corner</a><br>
+
 <br>💌 Hardware Oriented 💌<br>
 <br>💌 Others 💌<br>
