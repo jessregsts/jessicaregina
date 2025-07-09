@@ -33,10 +33,8 @@
 <br>
 You can find other projects I created by myself or with my colleagues by checking my repositories, they're all public. 
 <br>Have fun! 🎮
-<br>
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessregsts&layout=compact&theme=tokyonight" alt="Top Langs" />
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessregsts&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>
 
