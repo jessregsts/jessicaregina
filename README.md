@@ -10,7 +10,7 @@
 <br>
 <br>
 <div align="center"> 
-<img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="100"/>
+<img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="100"/><br>
 <br><img src="https://i.pinimg.com/originals/bb/34/01/bb34017e0cd6eeaff3e785b60a8ff59f.gif" width="300"/> </div>
 <div align="center">
 <br>Some of my favorite projects I did are:<br>
@@ -35,9 +35,10 @@
 You can find other projects I created by myself or with my colleagues by checking my repositories, they're all public. 
 <br>Have fun! 🎮
 
+<div align="center"> <img src="https://66.media.tumblr.com/9356a5343569692547be79f4fe460829/tumblr_mit6meq11R1rfjowdo1_500.gif" width="300"/>
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessregsts&layout=compact&theme=tokyonight" alt="Top Langs" />
 <br>
-<div align="center"> <img src="https://66.media.tumblr.com/9356a5343569692547be79f4fe460829/tumblr_mit6meq11R1rfjowdo1_500.gif" width="300"/> </div>
+ </div>
 
 
 </div>
