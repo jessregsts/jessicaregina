@@ -1,6 +1,6 @@
 # My Info
 
-##💻 Jessica Regina dos Santos
+## 💻 Jessica Regina dos Santos
 
 <br>🌸 I'm a Computer Science undergraduate at the Department of Computer Science and S tatistics - UFSC.<br>
 <br>🌸 Also a big nerd and Maths lover 📖<br>
