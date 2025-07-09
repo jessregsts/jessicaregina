@@ -15,7 +15,7 @@
 <br>Some of my favorite projects I did are:<br>
 <br><b>💌 Software Oriented 💌</b><br>
 <br><a href="https://github.com/jessregsts/INE5417-Engenharia-de-Software-I">Kings in the Corner</a><br>
-<br><a href="https://github.com/jessregsts/INE5402-Programacao-Orientada-a-Objetos-I/tree/main/TrabalhoFinal">Movie Ranting System</a><br>
+<br><a href="https://github.com/jessregsts/INE5402-Programacao-Orientada-a-Objetos-I/tree/main/TrabalhoFinal">Movie Renting System</a><br>
 <br><a href="https://github.com/jessregsts/INE5416-Paradigmas-de-Programacao">Solving a Sudoku in 4 different Programming Languages</a><br>
 <br><a href="https://github.com/jessregsts/INE5408-Estruturas-de-Dados/tree/main/ProjetoI">Vaccum Cleaning Robot</a><br>
 <br><a href="https://github.com/jessregsts/Trabalho_Final_Seguranca">Shamir's Secret Sharing</a><br>
@@ -31,6 +31,7 @@
 <br><a href="https://github.com/jessregsts/INE5427-Planejamento-e-Gestao-de-Projetos">Produte Project Management</a><br>
 <br>
 <br>
+You can find other projects I created by myself or with my colleagues by checking my repositories, they're all public. Have fun! 🎮
 
 <div align="center">
 
